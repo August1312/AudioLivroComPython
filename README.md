@@ -29,6 +29,6 @@ Este script em Python utiliza as bibliotecas PyPDF2 e pyttsx3 para realizar a le
    - `speak.stop()`: Encerra a leitura em voz após a conclusão da iteração.
 
 Lembre-se de que este código depende das bibliotecas PyPDF2 e pyttsx3, e você precisa instalá-las antes de executar o script. O código extrai o texto de cada página do arquivo PDF e usa a biblioteca pyttsx3 para transformar esse texto em fala, permitindo que o conteúdo do PDF seja ouvido. Certifique-se de que o arquivo PDF e as bibliotecas necessárias estejam disponíveis no ambiente de execução.
-   - 'pip install PyPDF2'
-   - 'pip install pyttsx3' 
-   - 'pip install python'
+   - `pip install PyPDF2`
+   - `pip install pyttsx3` 
+   - `pip install python`
